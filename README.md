@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 # 👋 Hi, I'm Kaiyan Li
 
 🎓 Data Scientist & Applied Data Science Master's Student at the University of Chicago  
-📍 Based in Chicago, IL
+📍 Based in Chicago, IL  
 🧠 Passionate about ML, NLP, and data-driven impact  
 📊 Focused on turning complex data into actionable insights for smarter decisions
 
@@ -27,13 +27,11 @@ Here are some ideas to get you started:
 ## 🧩 About Me
 
 #### 🎓 Academic Background
-I'm currently pursuing an M.S. in Applied Data Science at the University of Chicago, where I focus on applying machine learning to real-world business and geospatial problems.
-
+I'm currently pursuing an M.S. in Applied Data Science at the University of Chicago, where I focus on applying machine learning to real-world business and geospatial problems.  
 Previously, I earned a B.S. in Mathematics and Statistics with highest distinction and honors from the University of North Carolina at Chapel Hill and was inducted into Phi Beta Kappa.
 
 #### 💼 Professional Experience
-I currently work as a data scientist and project lead on a graduate-level capstone project sponsored by HERE Technologies through the University of Chicago. Our team focuses on improving lane model alignment algorithms using techniques such as point matching and graph matching to support high-definition map accuracy.
-
+I currently work as a data scientist and project lead on a graduate-level capstone project sponsored by HERE Technologies through the University of Chicago. Our team focuses on improving lane model alignment algorithms using techniques such as point matching and graph matching to support high-definition map accuracy.  
 Previously, I worked at Cmind Inc as a data scientist, developing and optimizing machine learning models for earnings surprise prediction. I led efforts in accuracy tracking, created detailed performance reports, and produced visualizations such as prediction heatmaps — one of which was featured in a [LinkedIn post by my former supervisor](https://www.linkedin.com/posts/weihongzhang_where-are-the-earnings-edges-hiding-this-activity-7327660344246476800-L2R2?utm_source=share&utm_medium=member_desktop&rcm=ACoAADe-xdABDJ3FKmHqfOc2RZyx10tHlRM_67M).
 
 ---
